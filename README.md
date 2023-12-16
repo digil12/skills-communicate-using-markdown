@@ -6,9 +6,6 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-# Neil header h1
-## Neil header h2
-### Neil header h3
 
 # Communicate using Markdown
 
@@ -35,6 +32,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+
+# Neil header h1
+## Neil header h2
+### Neil header h3
 
 ### Example
 
