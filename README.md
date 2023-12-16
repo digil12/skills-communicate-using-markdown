@@ -33,12 +33,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-# Neil header h1
-## Neil header h2
-### Neil header h3
-
-### Example
-
 ```md
 # This is an `<h1>` header, which is the largest
 
